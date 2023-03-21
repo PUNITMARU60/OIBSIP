@@ -21,7 +21,8 @@ Task 1 : http://htmlpreview.github.io/?https://raw.githubusercontent.com/PUNITMA
 
 Task 2 Images:**
 
-![task2 1](https://user-images.githubusercontent.com/78813264/226700567-8d4d1ecb-fec7-4bd2-8b48-22976e8039e2.PNG)
+
 ![task2](https://user-images.githubusercontent.com/78813264/226700503-9c520de4-5bfe-4661-9329-f86f60d61507.PNG)
+![task2 1](https://user-images.githubusercontent.com/78813264/226700567-8d4d1ecb-fec7-4bd2-8b48-22976e8039e2.PNG)
 
 Task 2 : http://htmlpreview.github.io/?https://raw.githubusercontent.com/PUNITMARU60/OIBSIP/main/Portfolio-Page/Portfolio-Punit%20Maru/index.html
