@@ -26,3 +26,13 @@ Task 2 Images:**
 ![task2 1](https://user-images.githubusercontent.com/78813264/226700567-8d4d1ecb-fec7-4bd2-8b48-22976e8039e2.PNG)
 
 Task 2 Preview : http://htmlpreview.github.io/?https://raw.githubusercontent.com/PUNITMARU60/OIBSIP/main/Portfolio-Page/Portfolio-Punit%20Maru/index.html
+
+
+**Task 3 : Temperature Conversion**
+
+**Task 3 Imges:**
+
+
+![Screenshot (225)](https://user-images.githubusercontent.com/78813264/229492375-e3ab06ca-87ab-4407-b39d-716bdda61730.png)
+
+Task 3 Preview : https://htmlpreview.github.io/?https://raw.githubusercontent.com/PUNITMARU60/OIBSIP/main/Temperature-Conversion/index.html
